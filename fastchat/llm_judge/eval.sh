@@ -2,7 +2,7 @@ set -e
 set -x
 
 export OPENAI_API_BASE="http://10.220.5.153:31417/api/requestazuremessage"
-export OPENAI_API_KEY="api-1700706820345-gSAqkkmeNL"
+export OPENAI_API_KEY=""
 
 MODEL_IDS=(
     # "gp_2b_iter1"
